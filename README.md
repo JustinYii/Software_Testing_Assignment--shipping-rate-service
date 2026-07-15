@@ -47,7 +47,3 @@ src/test
 - Eclipse IDE
 - JUnit
 
-
-Justin Yii Zhu Yong
-Bachelor of Software Engineering
-Universiti Tunku Abdul Rahman (UTAR)
